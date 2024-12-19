@@ -40,12 +40,12 @@ The most challenging part was installing the `dlib` library, as many Python vers
     1. Download the [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
     2. During installation, ensure you select the **C++ build tools** and the **Windows 10 SDK**.
     3. Refer this for a complete tutorial for installation https://youtu.be/_keTL9ymGjw?si=7OAD3mpyqf1sf-FP
-  
+
 ### Setup Instructions
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/K-GOKULAPPADURAI/Driver-Drowsiness-Detection-Alert-System-using-Python-.git
+   git clone https://github.com/siripuramrk/Driver-Drowsiness-Detection-Alert-System-using-Python.git
    cd Driver-Drowsiness-Detection-Alert-System-using-Python
    ```
 

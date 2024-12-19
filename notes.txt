@@ -1,0 +1,8 @@
+One may generate a requirements.txt via:
+pip freeze > requirements.txt
+
+A user can use this requirements.txt file to install all the dependencies. For instance:
+pip install -r requirements.txt
+
+https://github.com/siripuramrk/Driver-Drowsiness-Detection-Alert-System-using-Python
+
