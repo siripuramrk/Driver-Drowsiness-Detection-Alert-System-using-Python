@@ -6,3 +6,26 @@ pip install -r requirements.txt
 
 https://github.com/siripuramrk/Driver-Drowsiness-Detection-Alert-System-using-Python
 
+Create a Virtual Environment:
+python -m venv venv
+
+Activate the Virtual Environment:
+source venv/bin/activate
+
+Install CMAKE for windows:
+https://github.com/Kitware/CMake/releases/download/v3.31.2/cmake-3.31.2-windows-x86_64.msi
+
+Visual Studio Build Tools (Optional):
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+Dlib wheeel files (optional):
+https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+
+
+
+1. Download Source
+2. Install Pre-require
+3. Install Python pip packages
+4. Create and Activate Virtual Environment
+5. Run python main.py
+
