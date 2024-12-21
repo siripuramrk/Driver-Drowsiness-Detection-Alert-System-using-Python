@@ -1,7 +1,7 @@
 
 
-1. Download Source
-2. Install Pre-require
+1. Download Source code
+2. Install Pre-requisite
 3. Install Python pip packages
 4. Create and Activate Virtual Environment
 5. Run python main.py

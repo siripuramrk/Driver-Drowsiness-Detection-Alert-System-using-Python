@@ -57,6 +57,10 @@ The most challenging part was installing the `dlib` library, as many Python vers
 3. **Activate the Virtual Environment**:
    - On **Windows**:
      ```bash
+     source ./venv/Scripts/activate
+
+      or
+
      venv\Scripts\activate
      ```
    - On **macOS/Linux**:
