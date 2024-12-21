@@ -1,3 +1,14 @@
+
+
+1. Download Source
+2. Install Pre-require
+3. Install Python pip packages
+4. Create and Activate Virtual Environment
+5. Run python main.py
+
+
+other stuff
+
 One may generate a requirements.txt via:
 pip freeze > requirements.txt
 
@@ -20,12 +31,4 @@ https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 Dlib wheeel files (optional):
 https://github.com/z-mahmud22/Dlib_Windows_Python3.x
-
-
-
-1. Download Source
-2. Install Pre-require
-3. Install Python pip packages
-4. Create and Activate Virtual Environment
-5. Run python main.py
 
